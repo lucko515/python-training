@@ -1,0 +1,6 @@
+date,product_id,quantity,unit_price,total
+2024-01-01,P001,10,99.99,<function <lambda> at 0x000001BA44C325C0>
+2024-01-02,P002,5,149.99,<function <lambda> at 0x000001BA44C325C0>
+2024-01-03,P001,8,99.99,<function <lambda> at 0x000001BA44C325C0>
+2024-01-04,P003,12,79.99,<function <lambda> at 0x000001BA44C325C0>
+2024-01-05,P002,6,149.99,<function <lambda> at 0x000001BA44C325C0>

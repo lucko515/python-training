@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "C001",
+      "name": "John Doe",
+      "orders": [
+        {
+          "order_id": "O001",
+          "amount": 150.0
+        },
+        {
+          "order_id": "O002",
+          "amount": 75.5
+        }
+      ]
+    },
+    {
+      "id": "C002",
+      "name": "Jane Smith",
+      "orders": [
+        {
+          "order_id": "O003",
+          "amount": 225.0
+        }
+      ]
+    }
+  ]
+}
